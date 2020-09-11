@@ -164,8 +164,8 @@ function draw()
     textSize(70);
     fill("DarkOrange");
     textFont("Algerian");
-    text ("Your Score : " + score,25,200);
-    text("High Score : " + localStorage["HighestScore"],40,280);
+    text ("Your Score : " + score,20,200);
+    text("High Score : " + localStorage["HighestScore"],35,280);
 
     
     
